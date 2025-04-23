@@ -1,16 +1,74 @@
-## Hi there 👋
+#  👩🏻‍💻 Meissa 
+**`Estudante 🎮🌈`**
 
-<!--
-**MeissaElizGottardi/MeissaElizGottardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Meissa Eliz Gottardi, tenho 18 anos e sou natural de Santa Catarina. Conclui o ensino médio na escola  de educação básica Ruy Barbosa. Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistemas mistrado pelo Senai. Sou apaixonada pela técnologia e jogos, estou caminhando na área de desenvolvimento de sistemas. No tempo livre costumo jogar, ouvir música e aproveitar o tempo em familia. 
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/MeissaElizGottardi?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MeissaElizGottardi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/MeissaElizGottardi?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MeissaElizGottardi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Redes Sociais   
+
+<p align="left">
+            <a href="https://www.linkedin.com/in/meissa-gottardi-b7a99733a">
+            <img 
+            alt="Linkedin"
+            title="Linkedin"
+            width="30px"
+            style="padding-right: 10px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+            />
+            </a>
+            <a href="https://www.instagram.com/trid3ntt/s">
+            <img 
+            alt="Instagram"
+            title="Instagram"
+            width="30px"
+            style="padding-right: 10px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+            />
+            </a> 
+            <a href="https://www.facebook.com/people/Meissa-Eliz/pfbid0R8kUUHrkemCKPXQaAzSB6Hf2vAaHoFdG3eqF1XpM6pNBKRNk6w6pinjHhNMAgA77l/">
+            <img 
+            alt="Facebook"
+            title="Facebook"
+            width="30px"
+            style="padding-right: 10px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg"
+        />
+        </a>
+        <a href="https://open.spotify.com/user/a0w9mxf7mx9zz8551myy6zcqe?si=dba04a6323f4408a">
+            <img 
+            alt="Spotify"
+            title="Spotify"
+            width="30px"
+            style="padding-right: 10px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png"
+            />
+            </a>
+        <a href="https://profile.playstation.com/Trid3ntt_69">
+            <img 
+            alt="Playstation"
+            title="Playstation"
+            width="35px"
+            style="padding-right: 10px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Playstation_logo_colour.svg"
+            />
+            </a>
+            
+ 
