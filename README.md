@@ -1,7 +1,7 @@
 #  👩🏻‍💻 Meissa 
 **`Estudante 🎮🌈`**
 
-Me chamo Meissa Eliz Gottardi, tenho 18 anos e sou natural de Santa Catarina. Conclui o ensino médio na escola  de educação básica Ruy Barbosa. Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistemas mistrado pelo Senai. Sou apaixonada pela técnologia e jogos, estou caminhando na área de desenvolvimento de sistemas. No tempo livre costumo jogar, ouvir música e aproveitar o tempo em familia. 
+Me chamo Meissa Eliz Gottardi, tenho 18 anos e sou natural de Santa Catarina. Conclui o ensino médio na escola  de educação básica Ruy Barbosa. Atualmente, estou cursando técnico em Desenvolvimento de Sistemas mistrado pelo Senai. Sou apaixonada pela técnologia e jogos, estou caminhando na área de desenvolvimento de sistemas. No tempo livre costumo jogar, ouvir música e aproveitar o tempo em familia. 
 
 <p align="left">
     <a href="https://github.com/MeissaElizGottardi?tab=repositories&sort=stargazers">
