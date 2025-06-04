@@ -8,14 +8,14 @@ Me chamo Meissa Eliz Gottardi, tenho 18 anos e sou natural de Santa Catarina. Co
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MeissaElizGottardi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/MeissaElizGottardi?style=for-the-badge&labelColor=488207&logo=star&label=estrelas&color=55960c&logoColor=white"
         />
     </a>
     <a href="https://github.com/MeissaElizGottardi?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MeissaElizGottardi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white?v=1"
+            src="https://img.shields.io/github/followers/MeissaElizGottardi?labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white""
         />
     </a>
 </p>
