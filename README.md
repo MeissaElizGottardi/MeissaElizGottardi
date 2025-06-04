@@ -8,7 +8,7 @@ Me chamo Meissa Eliz Gottardi, tenho 18 anos e sou natural de Santa Catarina. Co
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/MeissaElizGottardi?style=for-the-badge&labelColor=488207&logo=star&label=estrelas&color=55960c&logoColor=white"
+            src="https://img.shields.io/github/stars/MeissaElizGottardi?style=for-the-badge&labelColor=488207&logo=star&label=★ estrelas&color=55960c&logoColor=white"
         />
     </a>
     <a href="https://github.com/MeissaElizGottardi?tab=followers">
